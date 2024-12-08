@@ -38,6 +38,7 @@ export const data =[
         option3:"flex-center",
         option4:"margin: auto",
         ans:4
+<<<<<<< HEAD
     },
     {
         question:"What is the purpose of the useState hook in React?",
@@ -54,6 +55,8 @@ export const data =[
         option3:"A library for handling HTTP requests in React",
         option4:"A tool for optimizing React applications",
         ans:2
+=======
+>>>>>>> origin/master
     }
     
 ]
